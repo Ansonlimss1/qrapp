@@ -1,0 +1,10 @@
+{
+  "name": "qrly — your QR wallet",
+  "short_name": "qrly",
+  "description": "A private home for all your QR codes.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "icons": [{ "src": "assets/wallet-app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
